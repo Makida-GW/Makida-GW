@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Makida
 - 🌱 I’m currently learning on a html from assignment
-- 💞️ I’m looking to collaborate on front-end software enginneering
+- 💞️ I’m looking to collaborate on front-end software engineering
 - 📫 How to reach me ...
